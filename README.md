@@ -1,3 +1,18 @@
+# Hello world, Fernando here :fire: 
+
+## React-typing-animation 
+
+![1](https://user-images.githubusercontent.com/68034298/90047887-07671000-dca9-11ea-83d1-1b9b974da792.gif)
+
+<br>
+
+Reponsive too :smile: 
+
+![Screenshot_2](https://user-images.githubusercontent.com/68034298/90047911-11890e80-dca9-11ea-8965-436fb9c9c0b8.jpg)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +81,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+ ## License 📕
+
+Released in 2020 📕 License
+
+Made with love by Fernando Henrique :fire:.
+
+Give a ⭐️ if this project helped you!
